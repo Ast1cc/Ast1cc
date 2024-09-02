@@ -14,3 +14,9 @@
   </p>
 
 </div>
+
+<h2>Profile viewes</h2>
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ast1cc&label=Wy%C5%9Bwietlenia&color=12&icon=1&pretty=true" />
+</a>
